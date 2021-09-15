@@ -15,6 +15,6 @@ to value:
 
 ## Continuous re-inspection over scheduled audits. 
 
-## Global Coverage over sporadic inclusion. 
+## Global coverage over sporadic inclusion. 
 
 
