@@ -9,8 +9,7 @@ to value:
 
 ## Automated discovery over manual on-boarding and configuration.
 
-## Working inspections and controls over written documentation
-sparsely followed.
+## Working inspections and controls over written documentation sparsely followed.
 
 ## Informative advisory over Break/Block.
 
