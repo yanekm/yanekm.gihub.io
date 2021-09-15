@@ -19,7 +19,7 @@ over Break/Block.
 ## Continuous re-inspection
 over scheduled audits. 
 
-## Global coverage
+## Full coverage
 over sporadic inclusion. 
 
 
